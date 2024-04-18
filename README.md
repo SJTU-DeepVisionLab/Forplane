@@ -10,7 +10,7 @@
 
 > [LerPlane: Neural Representations for Fast 4D Reconstruction of Deformable Tissues](https://arxiv.org/pdf/2305.19906.pdf) \
 > Chen Yang, Kailing Wang, Yuehao Wang, Xiaokang Yang, Wei Shen \
-> MICCAI2023, Oral, STAR Award, **Young Scientist Award**
+> MICCAI, 2023. **Young Scientist Award**
 
 ![](lerplanes/images/overview.png)
 
@@ -18,6 +18,7 @@
 
 > [Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane](https://arxiv.org/pdf/2312.15253.pdf) \
 > Chen Yang, Kailing Wang, Yuehao Wang, Qi Dou, Xiaokang Yang, Wei Shen
+> IEEE Trans. Medical Imaging, 2024.
 
 ![](lerplanes/images/overview2.png)
 
@@ -88,7 +89,7 @@ Big thanks to [NeRFAcc](https://www.nerfacc.com/) (Li et al.) for their efficien
 
 ## Citation
 
-If you find this code useful for your research, please use the following BibTeX entry
+If you find this code useful for your research, please use the following BibTeX entries
 
 ```
 @inproceedings{yang2023neural,
@@ -98,5 +99,17 @@ If you find this code useful for your research, please use the following BibTeX 
   pages={46--56},
   year={2023},
   organization={Springer}
+}
+
+@article{yangTMI2024,
+  author       = {Chen Yang and
+                  Kailing Wang and
+                  Yuehao Wang and
+                  Qi Dou and
+                  Xiaokang Yang and
+                  Wei Shen},
+  title        = {Efficient Deformable Tissue Reconstruction via Orthogonal Neural Plane},
+  journal      = {IEEE Trans. Medical Imaging},
+  year         = {2024}
 }
 ```
